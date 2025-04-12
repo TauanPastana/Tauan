@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil do GitHub! 👋
 
-Olá! Meu nome é Tauan Pastana, um universitário de Sistema de Informações apaixonado por tecnologia e inovação.
+Meu nome é Tauan Pastana, um universitário de Sistema de Informações apaixonado por tecnologia e inovação.
 ## 🛠️ Minhas Habilidades
 
 - **Linguagens de Programação:**
